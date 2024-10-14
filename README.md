@@ -5,10 +5,10 @@ I'm a Data Engineer based in Portugal.
 I have over 5 years of exerience in Data, trying to turn data into information and information into actionable insights. "You can't make the right decision with the wrong data. You can't get the right data by making the wrong decision."
 
 If you catch me outside of work here are some good topics of discussion: 
-🎦 Cinema/TV series
-🍺 Craft Beer (untappd: andreareosa)
-✈ Travelling 
-⚽ Football 
+* 🎦 Cinema/TV series
+* 🍺 Craft Beer (untappd: andreareosa)
+* ✈ Travelling 
+* ⚽ Football 
 
 
 
