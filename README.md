@@ -4,7 +4,7 @@ I'm André! A Data Engineer based in sunny Portugal.
 
 I’ve spent the last 6+ years in the world of data, turning messy datasets into meaningful information and helping transform that information into real, actionable insights.
 
-When I'm not wrestling with ETL jobs or optimising something that should have been optimised years ago, you'll probably find me discussing one of these crucial life topics:
+When I'm not wrestling with ETL jobs or optimizing something that should have been optimized years ago, you'll probably find me discussing one of these crucial life topics:
 * 🎦 Cinema/TV series
 * 🍺 Craft Beer — untappd: andreareosa (proceed with caution)
 * ✈ Travelling (always planning the next escape)
